@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sachin Vaishnav</h1>
-# 💫 About Me:
 🔭 currently working on: FALCON Command Center- AI based Rockfall prediction system in Open-Pit mines<br>🌱 Learning : Deep Learning, Computer Vision and multi-modal Applications<br>💬 Exploring : MERN and GEN AI based systems<br>⚡ Fun fact : 📚 "It works on my machine" is my autobiography title. 
 
 
